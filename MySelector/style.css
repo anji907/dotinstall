@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+button:hover {
+  font-weight: bold;
+}
+
+input:focus {
+  border: 9px solid red;
+}
+
+button:active {
+  border: 8px solid red;
+}
